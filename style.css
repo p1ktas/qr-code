@@ -2,3 +2,17 @@
     padding: 0px;
     margin: 0px;
 }
+:root {
+    --white: hsl(0, 0%, 100%);
+    --gray: hsl(212, 45%, 89%);
+    --g.blue: hsl(220, 15%, 55%);
+    --blue: hsl(218, 44%, 22%);
+}
+
+.attribution {
+     font-size: 11px; text-align: center; 
+}
+.attribution a { 
+     color: hsl(228, 45%, 44%); 
+}
+
