@@ -26,11 +26,12 @@ body {
     --gray: hsl(212, 45%, 89%);
     --g-blue: hsl(220, 15%, 55%);
     --blue: hsl(218, 44%, 22%);
+    --black: hsl(0, 0%, 0%, 1))
 }
 
 .attribution {
      font-size: 11px; text-align: center;
-     margin-top: 10px; 
+     margin-top: 15px; 
 }
 
 .attribution a { 
@@ -43,18 +44,19 @@ body {
     flex-direction: column;
     background-color: var(--white);
     padding: 1rem;
+    gap: 15px;
     border-radius: 1rem;
-    box-shadow: 0px 3px 9px black;
+    box-shadow: 0px 3px 10px 0px hsla(0, 0%, 0%, 1);
 }
 
 img {
-    border-radius: 0.75rem;
+    border-radius: 0.5rem;
 }
 
 .title {
-    font-size: 20px;
+    font-size: 21px;
     font-weight: 700;
-    padding: 20px 0px 10px 0px;
+    padding-top: 5px;
 
 }
 
@@ -62,5 +64,5 @@ img {
     font-size: 15px;
     font-weight: 400;
     color: var(--g-blue);
-    padding: 5px 17px 15px 15px;
+    padding-bottom: 15px;
 }
