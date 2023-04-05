@@ -24,10 +24,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/p1ktas/qr-code)
-- Live Site URL: [Add live site URL here](https://p1ktas-qr.netlify.app/)
+- Solution URL: [Link to Git repo](https://github.com/p1ktas/qr-code)
+- Live Site URL: [Link to a live site](https://p1ktas-qr.netlify.app/)
 
 ## My process
+
+I approached this project with few things on my mind - to get better at understanding layouts, to apply my theoretical Flexbox knowledge and to test myself, to see, how much I learned in one month of grinding OdinProject's front-end dev course in my free time. At first, I've analysed design pictures and tried to identify how many flex containers there are and how many flex items there are. Then, I've realised it's only a one flex container, that contains an image, a heading and a paragraph. As soon as I started laying code onto html and .css files, I've realised how little I actually understood the Flexbox, even though, I thought it was very simple and straight forward tool to use theoretically. After few hours of frustration, I've had a pretty rough looking website, without any alignment and everything all over the place. Texted my friend, who works as a front-end dev, and started explaining to him, how I approached everything and what should do what, and as I was venting about my problems, suddenly, the solution to this challenge hit me like a train and I started spamming the actual solution to him. He didn't even have time to reply to me, all he did, was drop me wiki link to an article about "Rubber duck debugging" [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) (Read it, it actually REALLY helps). After all of that struggle, it was pretty simple, made a flex container, put some flex items into it, applied font weights and sizes, added some gaps and padding and it was all done and just to spicy it up a little, added a box-shadow.
 
 ### Built with
 
