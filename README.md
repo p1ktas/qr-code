@@ -74,7 +74,7 @@ I would probably like to add an actual QR code generator at some point in the fu
 
 ## Acknowledgments
 
-My loving and supporting girlfriend;
-My good friend Domantas, who listens all day, everyday about my struggles learning how to code and gives me great tips!;
-All the good guys and gals of the internet, that answer newbie questions, no matter how stupid they are.
+- My loving and supporting girlfriend;
+- My good friend Domantas, who listens all day, everyday about my struggles learning how to code and gives me great tips!;
+- All the good guys and gals of the internet, that answer newbie questions, no matter how stupid they are.
 
