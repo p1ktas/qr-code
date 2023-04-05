@@ -63,15 +63,18 @@ I would probably like to add an actual QR code generator at some point in the fu
 - [FLEXBOXFROGGY](https://flexboxfroggy.com/) - This helped me a lot to get a better grasp of flexbox.
 - [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) - This is an amazing article and everyone should read it, amazing concept and it really works.
 - [CSS Tricks](https://css-tricks.com/almanac/) - This helped me to find some CSS commands I've forgotten about.
-- [TheOdinProject](https://www.theodinproject.com/) - If you want to start your front-end journey, and don't know where to start - this is one of the best places to do so, also it's FREE!
+- [TheOdinProject](https://www.theodinproject.com/) - If you want to start your front-end journey, and don't know where to - this is one of the best places to do so, also it's FREE!
+- [Kevin Powell](https://www.youtube.com/@KevinPowell) - This guy is an insane inspiration to me, his videos are very well made and I've actually learned about variables, by watching his videos.
 
 ## Author
 
-- Github - [Github](https://github.com/p1ktas/qr-code)
-- Frontend Mentor - [@p1ktas](https://www.frontendmentor.io/profile/p1ktas)
+- My Github - [Github](https://github.com/p1ktas/qr-code)
+- Frontend Mentor profile - [@p1ktas](https://www.frontendmentor.io/profile/p1ktas)
 
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+My loving and supporting girlfriend;
+My good friend Domantas, who listens all day, everyday about my struggles learning how to code and gives me great tips!;
+All the good guys and gals of the internet, that answer newbie questions, no matter how stupid they are.
 
